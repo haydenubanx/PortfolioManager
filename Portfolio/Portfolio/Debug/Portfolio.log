@@ -1,0 +1,10 @@
+﻿  portfolio.cpp
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(220,21): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(245,23): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(485,21): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(509,22): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(732,45): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(738,38): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(757,45): warning C4018: '<': signed/unsigned mismatch
+Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(763,34): warning C4018: '<': signed/unsigned mismatch
+  Portfolio.vcxproj -> Y:\Documents\One Drive Hayden\OneDrive - Liberty University\University Stuff\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Debug\Portfolio.exe

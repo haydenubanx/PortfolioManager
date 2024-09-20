@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Portfolio-MacBook Pro.vcxproj, Portfolio.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bond.cpp
+  portfolio.cpp
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(220,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(245,23): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(485,21): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(509,22): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(732,45): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(738,38): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(757,45): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\portfolio.cpp(763,34): warning C4018: '<': signed/unsigned mismatch
+  portfolioDriver.cpp
+  security.cpp
+  stock.cpp
+  Generating Code...
+  Portfolio-MacBook Pro.vcxproj -> \\Mac\Home\Library\CloudStorage\OneDrive-LibertyUniversity\University Stuff\FINISHED CLASSES\CSIS 112-B01\Programming Assignments\Programming Assignment 7\Portfolio\Portfolio\Debug\Portfolio-MacBook Pro.exe
