@@ -77,7 +77,9 @@ int main()
 
 	//Closing program statements 
 	cout << "Exiting Program.\n\n";
-	system("pause");
+    std::cout << "Press Enter to continue..." << std::endl;
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    std::cin.get();
 	return 0;
 }
 

@@ -705,11 +705,11 @@ using namespace std;
 		next_token = NULL;
 
 		//Establish string and get the tokens:  
-		token = strtok_s(cDate, seps, &next_token);
+		token = strtok_r(cDate, seps, &next_token);
 		month = atoi(token);
-		token = strtok_s(NULL, seps, &next_token);
+		token = strtok_r(NULL, seps, &next_token);
 		day = atoi(token);
-		token = strtok_s(NULL, seps, &next_token);
+		token = strtok_r(NULL, seps, &next_token);
 		year = atoi(token);
 	}
 
